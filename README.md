@@ -17,3 +17,5 @@ Instructions
 5) Follow the inline instructions in config.php
 
 6) Copy all four files to your working directory wherever your PHP project's configuration file is located.
+
+7) If necessary in your environment, tell version control to ignore some/all of the configuration files.
